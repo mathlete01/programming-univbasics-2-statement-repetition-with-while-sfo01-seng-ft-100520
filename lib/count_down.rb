@@ -1,5 +1,5 @@
 count = 10
-while count > 1 do# Write your code here
+while count > 0 do# Write your code here
   puts count
   count -= 1
 end
